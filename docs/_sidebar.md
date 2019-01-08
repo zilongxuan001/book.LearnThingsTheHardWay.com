@@ -1,0 +1,17 @@
+<!-- docs/_sidebar.md -->
+
+* [序言](chapter00/preface00.md)
+- [文集](chapter01/README.md)
+   * [曾国藩：有绝顶聪明而肯作笨功夫的人才有大成就](chapter01/note25.md)
+   * [丰子恺：为青年说弘一法师](chapter01/note14.md)
+   * [坚毅：笨方法的第一步](chapter01/note13.md)
+   * [陈虎平：下笨功夫，打持久战](chapter01/note07.md)
+   * [村上春树：创作者应向自身内部找动机，而不是外部](chapter01/note01.md)
+   * [马奇：伟大的突破一般都是成功可能性极小的愚蠢造就的](chapter01/note26.md)
+   * [陈素封：一个没有做过突出贡献的人对社会有何价值？](chapter01/note04.md)
+   * [余晟：身份证掉了怎么办？捡起来](chapter01/note02.md)
+   * [《小森林》：冬天一结束要做的第一件事](chapter01/note03.md)
+   * [威尔逊：给青年科学家的 20 封信](chapter01/note05.md)
+   * [寺主人：这也算是笨方法学习的成果](chapter01/note06.md)
+   * [陈素封：如何让老师毫无保留教你？](chapter01/note08.md)
+   * [河森堡：只要人的自我修为到了，做其他的事情也是事半功倍的](chapter01/note09.md)
